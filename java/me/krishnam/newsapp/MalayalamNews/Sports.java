@@ -1,5 +1,5 @@
 package me.krishnam.newsapp.MalayalamNews;
-
+/** COMPLETED
 import android.app.Activity;
 import android.net.Uri;
 import android.os.Bundle;
@@ -51,7 +51,7 @@ public class Sports extends Fragment {
     public Sports() {
         // Required empty public constructor
     }
-
+/** need to add additional variable to justify
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
