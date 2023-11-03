@@ -8,10 +8,10 @@
     {
       "client_info": {
         "mobilesdk_app_id": "1:287427551428:android:c0e28af65e868613",
-        "client_id": "android:me.ashif.newsapp",
+        "client_id": "android:me.krishnam.newsapp",
         "client_type": 1,
         "android_client_info": {
-          "package_name": "me.ashif.newsapp"
+          "package_name": "me.krishnam.newsapp"
         }
       },
       "oauth_client": [],
